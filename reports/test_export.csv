@@ -1,0 +1,5 @@
+id,category,amount,description,expense_date,created_at
+4,Entertainment,200.0,Movies,2026-06-04,2026-06-06 15:47:43
+3,Utilities,500.0,Electricity,2026-06-03,2026-06-06 15:47:43
+2,Transport,80.0,Metro,2026-06-02,2026-06-06 15:47:43
+1,Food,150.0,Lunch,2026-06-01,2026-06-06 15:47:43
