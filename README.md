@@ -118,3 +118,14 @@ GROUP BY c.name ORDER BY total DESC LIMIT 1;
 | 8 | Generate Charts | Pie chart or line chart saved to `reports/` | (bonus objective)
 | 9 | Delete an Expense | Remove an expense by ID |
 | 10 | Exit | Quit the application |
+
+
+## Screenshots
+
+<img width="991" height="642" alt="image" src="https://github.com/user-attachments/assets/1ce2d195-e27a-4251-b776-cbbe983505f0" />
+
+<img width="559" height="673" alt="image" src="https://github.com/user-attachments/assets/71b6487d-4242-4a39-b05b-d6bfc9cc6b30" />
+
+<img width="1036" height="585" alt="image" src="https://github.com/user-attachments/assets/c90ecbd6-c2d9-4e5e-9683-2adc824542fa" />
+<img width="700" height="700" alt="category_pie_06_2026" src="https://github.com/user-attachments/assets/5d05d494-8a7b-4ffd-9d49-5406bde7d987" />
+
